@@ -273,6 +273,9 @@ img {
 }
 
 .benefits-icon-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     max-width: 264px;
     height: 112px;
     border-radius: 4px;
