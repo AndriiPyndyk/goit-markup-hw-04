@@ -222,6 +222,7 @@ img {
     color: var(--white);
     background-color: var(--iris);
     cursor: pointer;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 
     display: block;
     min-width: 169px;
@@ -276,10 +277,8 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 264px;
     height: 112px;
     border-radius: 4px;
-    padding: 24px 100px;
     margin-bottom: 8px;
     background-color: var(--cloud);  
 }
